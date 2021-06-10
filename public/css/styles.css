@@ -1,0 +1,52 @@
+body {
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh
+}
+
+h1 {
+    font-size: 50px;
+    
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: 16px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px ;
+    padding-left: 50px;
+
+}
+
+a:link
+{   font-size: 32px;
+    color: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px ;
+    padding-left: 50px;
+
+}
+
+a:visited
+{
+    color: green
+}
+
+a:hover
+{
+    color: hotpink
+}
+
+a:active
+{
+    color: blue
+}
+
